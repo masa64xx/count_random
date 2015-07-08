@@ -14,6 +14,8 @@
 		A5DA616A1B4B75530097CB9E /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A5DA61691B4B75530097CB9E /* Images.xcassets */; };
 		A5DA616D1B4B75530097CB9E /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = A5DA616B1B4B75530097CB9E /* LaunchScreen.xib */; };
 		A5DA61791B4B75530097CB9E /* count_tsuikaTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5DA61781B4B75530097CB9E /* count_tsuikaTests.swift */; };
+		A5DA61831B4D5B4F0097CB9E /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A5DA61821B4D5B4F0097CB9E /* AVFoundation.framework */; };
+		A5DA61851B4D5C060097CB9E /* voise.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A5DA61841B4D5C060097CB9E /* voise.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +40,8 @@
 		A5DA61721B4B75530097CB9E /* count_tsuikaTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = count_tsuikaTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A5DA61771B4B75530097CB9E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A5DA61781B4B75530097CB9E /* count_tsuikaTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = count_tsuikaTests.swift; sourceTree = "<group>"; };
+		A5DA61821B4D5B4F0097CB9E /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		A5DA61841B4D5C060097CB9E /* voise.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = voise.mp3; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -45,6 +49,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A5DA61831B4D5B4F0097CB9E /* AVFoundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -61,6 +66,7 @@
 		A5DA61511B4B75530097CB9E = {
 			isa = PBXGroup;
 			children = (
+				A5DA61821B4D5B4F0097CB9E /* AVFoundation.framework */,
 				A5DA615C1B4B75530097CB9E /* count_tsuika */,
 				A5DA61751B4B75530097CB9E /* count_tsuikaTests */,
 				A5DA615B1B4B75530097CB9E /* Products */,
@@ -79,6 +85,7 @@
 		A5DA615C1B4B75530097CB9E /* count_tsuika */ = {
 			isa = PBXGroup;
 			children = (
+				A5DA61841B4D5C060097CB9E /* voise.mp3 */,
 				A5DA615F1B4B75530097CB9E /* AppDelegate.swift */,
 				A5DA61641B4B75530097CB9E /* ViewController.swift */,
 				A5DA61661B4B75530097CB9E /* Main.storyboard */,
@@ -195,6 +202,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A5DA61851B4D5C060097CB9E /* voise.mp3 in Resources */,
 				A5DA61681B4B75530097CB9E /* Main.storyboard in Resources */,
 				A5DA616D1B4B75530097CB9E /* LaunchScreen.xib in Resources */,
 				A5DA616A1B4B75530097CB9E /* Images.xcassets in Resources */,

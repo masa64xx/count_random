@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1D4C7CAD-F0A7-4A21-A826-779B865733B3</string>
+	<key>IDESourceControlProjectName</key>
+	<string>count_tsuika</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>298E1C9DC82591C3585C34D4D6D48C1A8CEFF7B0</key>
+		<string>https://github.com/masa64xx/count_random.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>count_tsuika.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>298E1C9DC82591C3585C34D4D6D48C1A8CEFF7B0</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/masa64xx/count_random.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>298E1C9DC82591C3585C34D4D6D48C1A8CEFF7B0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>298E1C9DC82591C3585C34D4D6D48C1A8CEFF7B0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>count_tsuika</string>
+		</dict>
+	</array>
+</dict>
+</plist>
